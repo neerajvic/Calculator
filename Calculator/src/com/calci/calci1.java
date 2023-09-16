@@ -366,7 +366,7 @@ public class calci1 {
 				
 				
 				 display.setText(display.getText()+ btndot.getText());
-				 counter = 0;
+				 counter = 1;
 			}
 		});
 		btndot.setFont(new Font("Tahoma", Font.BOLD, 18));
